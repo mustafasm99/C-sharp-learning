@@ -1,0 +1,15 @@
+C:\Projects\C#\w3school\app\bin\Debug\net8.0\app.exe
+C:\Projects\C#\w3school\app\bin\Debug\net8.0\app.deps.json
+C:\Projects\C#\w3school\app\bin\Debug\net8.0\app.runtimeconfig.json
+C:\Projects\C#\w3school\app\bin\Debug\net8.0\app.dll
+C:\Projects\C#\w3school\app\bin\Debug\net8.0\app.pdb
+C:\Projects\C#\w3school\app\obj\Debug\net8.0\app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\C#\w3school\app\obj\Debug\net8.0\app.AssemblyInfoInputs.cache
+C:\Projects\C#\w3school\app\obj\Debug\net8.0\app.AssemblyInfo.cs
+C:\Projects\C#\w3school\app\obj\Debug\net8.0\app.csproj.CoreCompileInputs.cache
+C:\Projects\C#\w3school\app\obj\Debug\net8.0\app.sourcelink.json
+C:\Projects\C#\w3school\app\obj\Debug\net8.0\app.dll
+C:\Projects\C#\w3school\app\obj\Debug\net8.0\refint\app.dll
+C:\Projects\C#\w3school\app\obj\Debug\net8.0\app.pdb
+C:\Projects\C#\w3school\app\obj\Debug\net8.0\app.genruntimeconfig.cache
+C:\Projects\C#\w3school\app\obj\Debug\net8.0\ref\app.dll
